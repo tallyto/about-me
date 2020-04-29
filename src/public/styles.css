@@ -47,7 +47,7 @@ header {
 }
 
 #wrapper img {
-  border-radius: 175px 20px;
+  border-radius: 50%;
   border: 3px solid var(--color-wine);
   margin-bottom: 32px;
   height: 350px;
